@@ -50,7 +50,7 @@ The model architecture consists of two main stages:
 
 First, clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/your-username/End-to-End-MRI-Based-Model-for-Prediction-of-Molecular-Subtypes-and-Grades.git
+git clone https://github.com/NannanXuesuper/End-to-End-MRI-Based-Model-for-Prediction-of-Molecular-Subtypes-and-Grades.git
 cd End-to-End-MRI-Based-Model-for-Prediction-of-Molecular-Subtypes-and-Grades
 ```
 
