@@ -102,5 +102,5 @@ If you find this code useful in your research, please consider citing our paper:
 
 ## Contact
 
-For questions or issues, please open a GitHub Issue or contact the corresponding author at [fccliujq@zzu.edu.cn](mailto:fccliujq@zzu.edu.cn) or [nannxue@cnio.es](mailto:nannxue@cnio.es).
+For questions or issues, please open a GitHub Issue or contact the corresponding author at [fccliujq@zzu.edu.cn](mailto:fccliujq@zzu.edu.cn), [olga.sukocheva@sa.gov.au](mailto:olga.sukocheva@sa.gov.au), [fccfanrt@zzu.edu.cn](mailto:fccfanrt@zzu.edu.cn), or [nannanxue@163.com](mailto:nannanxue@163.com).
 
