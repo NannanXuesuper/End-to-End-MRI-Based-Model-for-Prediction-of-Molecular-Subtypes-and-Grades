@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the official implementation for the paper: **"Segmentation-Free End-to-End Multi-Sequence MRI-Based Model for Prediction of Molecular Subtypes and Grades in Adult-Type Gliomas"**.
+This repository contains the official implementation for the paper: **"Advanced Glioma Classification using Novel Segmentation-Free End-to-End Multi-Sequence MRI-Based Deep-Learning Model: A Multicenter Study"**.
 
 Our project introduces the Multi-Sequence Multitask Deep Learning Model (MMDLM), an end-to-end deep learning framework that predicts key molecular subtypes (IDH mutation, 1p/19q co-deletion) and histological grade (LGG vs. GBM) in adult-type gliomas directly from multi-modal MRI scans, eliminating the need for manual tumor segmentation.
 
@@ -102,5 +102,7 @@ If you find this code useful in your research, please consider citing our paper:
 
 ## Contact
 
-For questions or issues, please open a GitHub Issue or contact the corresponding author at [fccliujq@zzu.edu.cn](mailto:fccliujq@zzu.edu.cn), [olga.sukocheva@sa.gov.au](mailto:olga.sukocheva@sa.gov.au), [fccfanrt@zzu.edu.cn](mailto:fccfanrt@zzu.edu.cn), or [nannanxue@163.com](mailto:nannanxue@163.com).
+For questions or issues, please open a GitHub Issue or contact the corresponding author at 
+<!-- 
+[fccliujq@zzu.edu.cn](mailto:fccliujq@zzu.edu.cn), [olga.sukocheva@sa.gov.au](mailto:olga.sukocheva@sa.gov.au), [fccfanrt@zzu.edu.cn](mailto:fccfanrt@zzu.edu.cn), or [nannxue@cnio.com](mailto:nannxue@cnio.com). -->
 
